@@ -1,0 +1,9 @@
+{
+  "name": "aarish-khan-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Personal portfolio website for Aarish Khan",
+  "scripts": {
+    "dev": "npx serve ."
+  }
+}
